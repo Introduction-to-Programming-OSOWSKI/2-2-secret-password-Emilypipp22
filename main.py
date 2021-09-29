@@ -1,6 +1,6 @@
 #define function
 def password(p):
     if (p == "Knights19"):
-        return "granted"
+        return "access granted"
     else:
-        return "denied"
+        return "access denied"
